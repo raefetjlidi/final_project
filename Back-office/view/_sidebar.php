@@ -16,7 +16,7 @@
           <li class="nav-item">
             <a class="nav-link" href="afficherListeReclamation.php">
               <i class="mdi mdi-grid-large menu-icon"></i>
-              <span class="menu-title">liste des clients</span>
+              <span class="menu-title">Réclamation</span>
             </a>
           </li>
 

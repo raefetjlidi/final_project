@@ -268,7 +268,7 @@
     <!-- content-wrapper ends -->
     <!-- _footer.php -->
     <?php 
-        include_once('footer.php');
+        include_once('_footer.php');
         ?>
     <!-- end footer.php -->
 
